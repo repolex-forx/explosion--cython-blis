@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "cython-blis",
+  "versions": [
+    {
+      "commit": "44dd59102136586e758297a86fc78369c37c80b0",
+      "tag": "release-v1.3.4",
+      "parsed_at": "2026-11-08T09:14:45.707358+00:00"
+    }
+  ]
+}
