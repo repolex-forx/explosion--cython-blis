@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/cython-blis/commit/44dd59102136586e758297a86fc78369c37c80b0",
       "git:hexsha": "44dd59102136586e758297a86fc78369c37c80b0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "release-v1.3.4"
     },
     {
